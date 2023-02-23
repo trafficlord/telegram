@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/telegram/static/css/main.1c3ee450.css",
-    "main.js": "/telegram/static/js/main.81ee9dc1.js",
+    "main.css": "/telegram/static/css/main.66048c3f.css",
+    "main.js": "/telegram/static/js/main.837fe73b.js",
     "static/js/787.6a228774.chunk.js": "/telegram/static/js/787.6a228774.chunk.js",
     "static/media/bg-tg6.png": "/telegram/static/media/bg-tg6.f7639dbb16e2f08756ce.png",
+    "static/media/tg-btc-logo.jpg": "/telegram/static/media/tg-btc-logo.7adf57e6c42c1c648954.jpg",
     "static/media/telegram.png": "/telegram/static/media/telegram.fac147278d309c688d4a.png",
     "index.html": "/telegram/index.html",
-    "static/media/logo.svg": "/telegram/static/media/logo.156b4b229666fd86ebcb3292f0c48e15.svg",
-    "main.1c3ee450.css.map": "/telegram/static/css/main.1c3ee450.css.map",
-    "main.81ee9dc1.js.map": "/telegram/static/js/main.81ee9dc1.js.map",
+    "main.66048c3f.css.map": "/telegram/static/css/main.66048c3f.css.map",
+    "main.837fe73b.js.map": "/telegram/static/js/main.837fe73b.js.map",
     "787.6a228774.chunk.js.map": "/telegram/static/js/787.6a228774.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c3ee450.css",
-    "static/js/main.81ee9dc1.js"
+    "static/css/main.66048c3f.css",
+    "static/js/main.837fe73b.js"
   ]
 }
