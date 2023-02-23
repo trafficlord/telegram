@@ -67,6 +67,47 @@
   margin-bottom: 50px;
 }
 
+.tg-add-info {
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+
+.tg-work-with {
+  font-size: 15px;
+  margin-bottom: 25px;
+}
+
+.tg-work-with a {
+  text-decoration: none;
+  color: #2481cc;
+}
+
+.tg-invited {
+  text-align: center;
+  color: grey;
+  font-size: 13px;
+  padding: 15px 3px 0;
+}
+
+.tg-invited .bold {
+  font-weight: bold;
+}
+
+.tg-followers {
+  font-size: 14px;
+  color: grey;
+  margin-bottom: 15px;
+}
+
+.tg-logo-circle {
+  margin-bottom: 10px;
+}
+
+.tg-logo-circle img {
+  border-radius: 50%;
+  width: 40%;
+}
+
 .App-link {
   background: #2481cc;
   text-decoration: none;
@@ -100,13 +141,15 @@
 
 @media (max-width: 400px) {
   .info-block {
-    width: 220px;
+    width: 240px;
     left: 41%;
     transform: translateX(-110px);
+    padding: 30px 20px;
   }
 
   .tg-name {
     font-size: 19px;
+    margin-bottom: 7px;
   }
 
   .App-header {
@@ -120,7 +163,11 @@
 
   .App-link {
     padding: 13px;
-    width: 100px;
+    width: 110px;
     font-size: 13px;
+  }
+
+  .body-bg {
+    height: 93vh;
   }
 }
