@@ -30,7 +30,7 @@ function App() {
                     </div>
                     <a
                         className="App-link"
-                        href="https://t.me/+89agRsvcAlFkODcy"
+                        href="https://t.me/+tiR5b4wM3ew5ZTQ6"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
